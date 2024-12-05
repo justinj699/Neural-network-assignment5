@@ -4,15 +4,15 @@ Neural Networks, inspired by the human brain, process information using intercon
 
 In this assignment, we worked on the drug.csv dataset, analyzing it using a neural network to understand its structure and insights. Multi-layer networks, like those used here, handle complex, non-linear relationships, forming the basis of modern AI systems.
 
-##Getting Started
+#Getting Started
 This guide offers a detailed walkthrough for setting up and running the project on your local machine. It assumes a basic understanding of programming, with Python as the primary language used. If you are new to Python, it is recommended to learn its fundamentals before moving forward. In addition to setup instructions, the guide includes a comprehensive section on deploying the project in a live environment. This section provides practical advice on achieving seamless integration and functionality, ensuring the project moves smoothly from development to an operational phase.
 
-###Prerequsites
+#Prerequsites
 1. GIT (Optional)
 2. Anaconda navigator
 3. Dataset to run the neural network algoritim
 
-####Installation
+##Installation
 
 Follow these simple steps To set up your environment:
 
@@ -35,7 +35,7 @@ Alternative way to open Jupyter Notebook:
 You can also search for "Jupyter Notebook" in your computer’s search bar and click on it to open directly.
 
 
-##### Code Execution
+# Code Execution
 Step 1: Clone the Repository (If Git is Installed)
 
 •	Open your command prompt (Windows) or terminal (Mac/Linux).
@@ -64,7 +64,7 @@ Click inside it and press Shift + Enter, or
 2.Click the Play button in the toolbar.
 Run each cell in order, one at a time.
 
-###### Explaining Code
+# Explaining Code
 
 ##Installing the libraries
 
@@ -92,14 +92,14 @@ Performance evaluation metrics:
 Confusion Matrix: Highlights the accuracy of predictions by comparing predicted and actual values for all classes.
 Classification Report: Provides detailed metrics such as precision, recall, F1-score, and support to measure the effectiveness of the model.
 
-###### Authors
+# Authors
 
 •	Justin Joseph
 
-####### License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-####### Acknowledgment
+#Acknowledgment
 
 •	Rejoy James, DATA 1202-03 DATA ANALYSIS TOOLS ANALYTICS
 
